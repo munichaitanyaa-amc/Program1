@@ -1,2 +1,2 @@
-# Program1
-Program in c language 
+# Program
+Programs in c language 
